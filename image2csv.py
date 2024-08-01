@@ -3,7 +3,7 @@ import numpy as np
 import os, os.path, time
 
 format='.jpg'
-myDir = "Lotus1"
+myDir = "Lotus1" 
 def createFileList(myDir, format='.jpg'):
     fileList = []
     print(myDir)
