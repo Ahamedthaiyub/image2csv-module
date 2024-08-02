@@ -1,6 +1,6 @@
 from PIL import Image
 import numpy as np
-import os, os.path, time
+import os, os.path, time 
 
 format='.jpg'
 myDir = "Lotus1" 
